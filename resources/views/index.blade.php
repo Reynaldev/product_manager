@@ -14,6 +14,7 @@
 
         <!-- Additional -->
         <script src="{{ asset('jquery-3.6.0.min.js') }}"></script>
+        <script src="https://unpkg.com/@popperjs/core@2"></script>
 
         <style>
             * {
