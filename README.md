@@ -1,6 +1,6 @@
 ## About This Repository
 
-This is my portfolio website build with Laravel Framework.
+A Website build with Laravel Framework.
 
 ## Installation
 
